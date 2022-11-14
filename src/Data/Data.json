@@ -1,0 +1,24 @@
+{
+  "importantQuestions": [
+    {
+        "id" : "plaindromeString",
+      "title": "If string is a plaindrome",
+      "description": "Given a word, check if it is a plaindrome. Example - 'Apple' will return false, but 'gag' will return true.",
+      "submission": "",
+      "score": 0,
+      "feedback": "",
+      "submissionDate": "",
+      "reviewedBy": ""
+    },
+    {
+        "id" : "validateBST",
+      "title": "Validate BST",
+      "description": "Given a root treenode, check if it is a valid Binary Search Tree (BST).",
+      "submission":  "",
+      "score": 0,
+      "feedback": "",
+      "submissionDate": "",
+      "reviewedBy": ""
+    }
+  ]
+}
